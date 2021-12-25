@@ -1,0 +1,16 @@
+F:\File1\Report Post Facebook\Report Post Facebook\obj\Debug\Report Post Facebook.csproj.AssemblyReference.cache
+F:\File1\Report Post Facebook\Report Post Facebook\obj\Debug\Report_Post_Facebook.Properties.Resources.resources
+F:\File1\Report Post Facebook\Report Post Facebook\obj\Debug\Report Post Facebook.csproj.GenerateResource.cache
+F:\File1\Report Post Facebook\Report Post Facebook\obj\Debug\Report Post Facebook.csproj.CoreCompileInputs.cache
+F:\File1\Report Post Facebook\Report Post Facebook\obj\Debug\Report_Post_Facebook.REG.resources
+F:\File1\Report Post Facebook\Report Post Facebook\bin\Debug\Report Post Facebook.exe.config
+F:\File1\Report Post Facebook\Report Post Facebook\bin\Debug\Report Post Facebook.exe
+F:\File1\Report Post Facebook\Report Post Facebook\bin\Debug\Report Post Facebook.pdb
+F:\File1\Report Post Facebook\Report Post Facebook\bin\Debug\Newtonsoft.Json.dll
+F:\File1\Report Post Facebook\Report Post Facebook\bin\Debug\WebDriver.dll
+F:\File1\Report Post Facebook\Report Post Facebook\bin\Debug\WebDriver.Support.dll
+F:\File1\Report Post Facebook\Report Post Facebook\bin\Debug\xNet.dll
+F:\File1\Report Post Facebook\Report Post Facebook\bin\Debug\Newtonsoft.Json.xml
+F:\File1\Report Post Facebook\Report Post Facebook\obj\Debug\Report Post Facebook.csproj.CopyComplete
+F:\File1\Report Post Facebook\Report Post Facebook\obj\Debug\Report Post Facebook.exe
+F:\File1\Report Post Facebook\Report Post Facebook\obj\Debug\Report Post Facebook.pdb
